@@ -42,23 +42,23 @@ export function Contact() {
               
               <div className="space-y-4">
                 <a 
-                  href="mailto:hello@zachariaalex.dev"
+                  href="mailto:zachariaalex1998@gmail.com"
                   className="flex items-center gap-3 text-zinc-400 hover:text-zinc-200 transition-colors group"
                 >
                   <div className="p-2.5 rounded-lg bg-zinc-800 group-hover:bg-zinc-700 transition-colors">
                     <Mail className="h-4 w-4" />
                   </div>
-                  <span>hello@zachariaalex.dev</span>
+                  <span>zachariaalex1998@gmail.com</span>
                 </a>
                 
                 <a 
-                  href="tel:+919876543210"
+                  href="tel:+917356126270"
                   className="flex items-center gap-3 text-zinc-400 hover:text-zinc-200 transition-colors group"
                 >
                   <div className="p-2.5 rounded-lg bg-zinc-800 group-hover:bg-zinc-700 transition-colors">
                     <Phone className="h-4 w-4" />
                   </div>
-                  <span>+91 987 654 3210</span>
+                  <span>+91 73561 26270</span>
                 </a>
               </div>
             </div>
