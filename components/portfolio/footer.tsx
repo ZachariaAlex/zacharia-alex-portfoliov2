@@ -27,7 +27,7 @@ export function Footer() {
               <Github className="h-4 w-4" />
             </a>
             <a 
-              href="https://www.linkedin.com/in/zacharia-alex/" 
+              href="https://www.linkedin.com/in/zacharia-alex-2299a2172/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2.5 rounded-lg bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 hover:border-zinc-700 transition-colors"
