@@ -5,6 +5,7 @@ import { Competencies } from "@/components/portfolio/competencies"
 import { Education } from "@/components/portfolio/education"
 import { Contact } from "@/components/portfolio/contact"
 import { Footer } from "@/components/portfolio/footer"
+import { Experience } from "@/components/portfolio/experience"
 
 export default function Portfolio() {
   return (
@@ -13,6 +14,7 @@ export default function Portfolio() {
       <About />
       <TechStack />
       <Competencies />
+      <Experience />
       <Education />
       <Contact />
       <Footer />
