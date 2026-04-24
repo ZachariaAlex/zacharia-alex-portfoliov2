@@ -18,7 +18,7 @@ export function Footer() {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/ZachariaAlex" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2.5 rounded-lg bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 hover:border-zinc-700 transition-colors"
@@ -27,22 +27,13 @@ export function Footer() {
               <Github className="h-4 w-4" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/zacharia-alex/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2.5 rounded-lg bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 hover:border-zinc-700 transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin className="h-4 w-4" />
-            </a>
-            <a 
-              href="https://twitter.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="p-2.5 rounded-lg bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 hover:border-zinc-700 transition-colors"
-              aria-label="Twitter"
-            >
-              <Twitter className="h-4 w-4" />
             </a>
           </div>
           
